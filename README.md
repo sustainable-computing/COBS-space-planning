@@ -18,7 +18,7 @@ we quantify the potential savings that can be achieved.
 
 ![Building layout](algorithm.png)
 
-This repository is licensed under [MIT](https://github.com/sustainable-computing/COBS-space-planning/LICENSE). 
+This repository is licensed under [MIT](https://github.com/sustainable-computing/COBS-space-planning/blob/main/LICENSE). 
 Code is written by [Tianyu Zhang](https://tianyuzhang.com/).
 
 ## Contributing
